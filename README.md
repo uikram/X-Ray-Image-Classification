@@ -1,0 +1,2 @@
+# X-Ray Image Classification
+ The project aims to automate the classification of X-ray images by leveraging the capabilities of deep learning. It has the potential to bring significant benefits to both medical professionals and patients. Our objective is to develop a rapid and precise diagnostic tool for the identification of medical disorders from X-ray pictures by utilizing convolutional neural networks and data augmentation techniques. The initiative aims to establish a connection between technology and healthcare, with the objective of optimizing the diagnosis process.
